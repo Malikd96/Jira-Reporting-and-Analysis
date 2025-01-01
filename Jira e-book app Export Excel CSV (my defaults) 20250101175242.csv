@@ -1,0 +1,4 @@
+﻿Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Priority,Status,Resolution,Created,Updated,Due date
+Bug,EBA-4,10007,Username update not working,,,Malik Davis,712020:155c69fd-4ba5-49ba-a8f7-446fee9b4f4a,Medium,Done,Done,01/Jan/25 4:32 PM,01/Jan/25 5:12 PM,
+Story,EBA-3,10006,Enable e-mail address change,,,Malik Davis,712020:155c69fd-4ba5-49ba-a8f7-446fee9b4f4a,Medium,In Progress,,01/Jan/25 4:26 PM,01/Jan/25 5:12 PM,
+Task,EBA-2,10005,"Add a ""favorites"" feature button",,,Malik Davis,712020:155c69fd-4ba5-49ba-a8f7-446fee9b4f4a,Medium,In Progress,,01/Jan/25 4:21 PM,01/Jan/25 5:12 PM,
